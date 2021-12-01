@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891764251679",
+    "project_id": "sp2text-496eb",
+    "storage_bucket": "sp2text-496eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891764251679:android:1682e22ff55bc7ed7e092a",
+        "android_client_info": {
+          "package_name": "com.example.rember"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891764251679-6er7d53daieth046ob41jfkf91m1mrov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPOT_DPekD375s7qgBeD_lw-Jf-q8n5gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891764251679-6er7d53daieth046ob41jfkf91m1mrov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
